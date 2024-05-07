@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "253944405428",
+    "project_id": "icaro-dc527",
+    "storage_bucket": "icaro-dc527.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253944405428:android:05f2a6f7348ced94e2e6e1",
+        "android_client_info": {
+          "package_name": "com.example.icaro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDf_E6frJmc-5_VOjG1eoVmeQGjp8Phb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253944405428:android:f5c5ae660b96df13e2e6e1",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDf_E6frJmc-5_VOjG1eoVmeQGjp8Phb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253944405428:android:5feae3e37f5f34bee2e6e1",
+        "android_client_info": {
+          "package_name": "com.example.podepa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDf_E6frJmc-5_VOjG1eoVmeQGjp8Phb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
